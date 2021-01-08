@@ -2,7 +2,7 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹𝐃𝐀𝐑𝐊 𝐁𝐎𝐓🌹
+║        🌹MARKOS BOT🌹
 ╠════════════════════
 
 
@@ -101,16 +101,16 @@ const help = (prefix) => {
 ➸ Nota : Você precisa ser admin e o bot também
 
        • ────── ✾ ────── •
-       *MENU DO DARK*【✔】
+       *MENU DO MARKOS*【✔】
        • ────── ✾ ────── •              
 
 ➸ *${prefix}help1* ♔
     
 
 ╔════════════════════
-  FEITO POR *DARK*
+  FEITO POR *MARKOS*
   DUVIDAS? 👇
-  WA.me/5517991134416
+  WA.me/5594988088531
 ╚════════════════════`
 }
 
